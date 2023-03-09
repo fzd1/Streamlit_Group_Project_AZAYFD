@@ -1,0 +1,5 @@
+streamlit
+altair
+pandas
+vega_datasets
+urllib.request
