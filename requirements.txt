@@ -1,6 +1,6 @@
-altair==4.2.2
-pandas==1.5.3
-streamlit==1.18.1
-urllib3==1.26.14
-vega-datasets
+altair
+pandas
+streamlit
+urllib3
+vega_datasets
 
