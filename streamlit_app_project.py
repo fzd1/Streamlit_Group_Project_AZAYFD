@@ -4,7 +4,7 @@ import streamlit as st
 import vega_datasets as vd
 from urllib.request import Request, urlopen
 
-#alt.data_transformers.disable_max_rows()
+alt.data_transformers.disable_max_rows()
 
 st.set_page_config(layout="wide")
 @st.cache_data
